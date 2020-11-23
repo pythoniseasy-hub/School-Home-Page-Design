@@ -1,0 +1,24 @@
+body
+{
+    background: rgb(249,244,223);
+    background: linear-gradient(90deg, rgba(249,244,223,1) 0%, rgba(234,238,213,1) 100%);
+}
+#firstContainer
+{
+    background: rgb(148,187,233);
+    background: linear-gradient(90deg, rgba(148,187,233,1) 0%, rgba(238,174,211,1) 100%);
+}
+.tagline{
+    font-family: 'Pacifico', cursive;
+
+}
+
+.tagline1{
+    font-family: 'Fredoka One', cursive;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
